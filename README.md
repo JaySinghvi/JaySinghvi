@@ -20,11 +20,11 @@
 
 ## 🛠️ Technical Toolkit
 
-**Languages:** Python, R, SQL, JavaScript, HTML/CSS, C, Assembly  
-**ML Libraries:** TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost, OpenCV, NLTK  
-**Data Tools:** Pandas, NumPy, Matplotlib, Plotly, Power BI, Tableau  
-**Frameworks & Platforms:** Streamlit, Flask, MySQL, Hugging Face, AWS S3, GCP, Git  
-**Concepts:** Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning
+- **Languages:** Python, R, SQL, JavaScript, HTML/CSS, C, Assembly  
+- **ML Libraries:** TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost, OpenCV, NLTK  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Plotly, Power BI, Tableau  
+- **Frameworks & Platforms:** Streamlit, Flask, MySQL, Hugging Face, AWS S3, GCP, Git  
+- **Concepts:** Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning
 
 ---
 
