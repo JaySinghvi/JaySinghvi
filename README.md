@@ -4,7 +4,7 @@
 
 ---
 
-🎓 **Undergrad @ UMass Amherst** | Focused on building scalable, intelligent systems using **machine learning** and **data science**.  
+🎓 **Data Science Undergrad @ UMass Amherst** | Focused on building scalable, intelligent systems using **machine learning** and **data science**.  
 💡 I thrive at the intersection of **real-world problems and technical creativity**, with hands-on experience in domains such as health, finance, education, and media.  
 
 ---
