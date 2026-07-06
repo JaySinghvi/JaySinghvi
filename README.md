@@ -4,8 +4,8 @@
 
 ---
 
-🎓 **Data Science Undergrad @ UMass Amherst** | Focused on building scalable, intelligent systems using **machine learning** and **data science**.  
-💡 I thrive at the intersection of **real-world problems and technical creativity**, with hands-on experience in domains such as health, finance, education, and media.  
+🎓 **Data Science Graduate** | Focused on building scalable, intelligent systems using **AI, ML** and **data science**.  
+💡 I thrive at the intersection of **real-world problems and technical creativity**, with hands-on experience in domains such as health, finance, entertainment, media, sports, and energy.  
 
 ---
 
@@ -36,8 +36,8 @@
 - 🎬 [**Movie Recommendation System**](https://github.com/JaySinghvi/Content-Based-Movie-Recommender-System)  
   NLP-powered content-based recommender using TF-IDF and cosine similarity + TMDB API integration
 
-- 💳 [**Credit Risk Prediction in R**](https://github.com/JaySinghvi/Loan-Default-Prediction-Risk-Analysis)  
-  Logistic regression + random forest for loan default prediction with 84.9% accuracy (R, finance domain)
+- 💳 [**LendGuard AI in R**](https://github.com/JaySinghvi/Loan-Default-Prediction-Risk-Analysis)  
+  Shiny web app that scores a loan applicant with a trained XGBoost model and uses Claude to draft an ECOA/Regulation B-style credit decision notice
   
 ---
 
@@ -59,4 +59,4 @@
 
 ---
 
-*Thanks for stopping by. Always open to collaboration, freelance gigs, and full-time roles in ML & Data Science!* 🚀
+*Thanks for stopping by. Always open to collaboration, freelance gigs, and full-time roles in AI, ML & Data Science!* 🚀
